@@ -1,4 +1,6 @@
 # P09 DETECT PIXELATED IMAGES AND DEPIXELATE IT 
+### Project Final Report
+- [Link to Project Final Report](https://docs.google.com/document/d/1b3h0-VPKK3YG0TWc7Td-sR7nVRxzqkAE/edit?usp=drive_link&ouid=108268979758453571814&rtpof=true&sd=true)
 
 This project involves detecting pixelated images and restoring them to their original quality using machine learning techniques. The project is part of the curriculum for the 2nd year, Department of Computer Science and Engineering at Nitte Meenakshi Institute of Technology.
 
