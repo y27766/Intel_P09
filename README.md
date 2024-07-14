@@ -1,4 +1,4 @@
-# Image Depixelation Project
+# P09 DETECT PIXELATED IMAGES AND DEPIXELATE IT 
 
 This project involves detecting pixelated images and restoring them to their original quality using machine learning techniques. The project is part of the curriculum for the 2nd year, Department of Computer Science and Engineering at Nitte Meenakshi Institute of Technology.
 
