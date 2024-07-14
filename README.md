@@ -55,9 +55,4 @@ The dataset consists of images categorized into 'Original' and 'Pixelated' label
 - Pandas
 - Matplotlib
 
-## Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/image-depixelation.git
-   cd image-depixelation
